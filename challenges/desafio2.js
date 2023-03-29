@@ -1,0 +1,1 @@
+debugger.produtos.find({}, { name: 1, })
